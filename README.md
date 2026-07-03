@@ -166,6 +166,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 - [Baileys](https://github.com/adiwajshing/Baileys)
 - [TechGod143](https://github.com/TechGod143) for pair code
 - [Dgxeon](https://github.com/Dgxeon) for pair code
+- [hunter zen](https://github.com/hunter-zen-ry) for this custom continously updated version
 
 ---
 
@@ -195,4 +196,4 @@ Copyright (c) 2024 Professor. All rights reserved.
 This project contains code from various open source projects:
 - Baileys (MIT License)
 - Other libraries as listed in package.json
-- original project  from [mr umique]((https://github.com/mruniquehacker/Knightbot))
+- original project  from [mr umique](https://github.com/mruniquehacker/Knightbot)
