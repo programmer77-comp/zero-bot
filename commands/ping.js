@@ -30,10 +30,11 @@ async function pingCommand(sock, chatId, message) {
 
         const botInfo = `
 ┏━━〔 🤖 ZERO BOT 〕━━┓
-┃ 🚀 Ping     : ${ping} ms
-┃ ⏱️ Uptime   : ${uptimeFormatted}
-┃ 🔖 Version  : v${settings.version}
-┃ 🔖 chat: v${settings.version}
+┃ 🚀 Ping         : ${ping} ms
+┃ ⏱️ Uptime       : ${uptimeFormatted}
+┃ 🔖 Version      : v${settings.version}
+┃ 🔖 chat[jid]    : ${chatId}
+┃ 🔖 sender[jid]  : ${senderId}
 ┗━━━━━━━━━━━━━━━━━━━┛`.trim();
 
         // Reply to the original message with the bot info
